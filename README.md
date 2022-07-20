@@ -20,13 +20,9 @@
     A README template for your projects that will impress recruiters!
     <br />
 
-Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
-
-Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. 
-Don't go overboard, people won't read it!
+Project name is a Guessing Game that allows someone to guess a number from 1 to 100.
 
 <!-- PROJECT DEMO GIF, AND IMAGES SHOULD BE PUT HERE -->
-*</b> Image(s) Insert Here* </b> - here is where you can place images of your project, a demo gif, and link to a deployed site - visuals matter!
 <p align=‘center’/>
 <p align='center'><a href="https://www.loom.com/share/04d6c8482c7341fb9b423d10f0bea30b"> <img style="max-width:300px" src="https://cdn.loom.com/sessions/thumbnails/04d6c8482c7341fb9b423d10f0bea30b-with-play.gif"> </br> <p align='center'> Watch Video</p> </a> </p>
 
@@ -39,9 +35,8 @@ Check out <project_name> here!
 
 Before you begin, ensure you have met the following requirements:
 <!--- These are just example requirements. Add, duplicate or remove as required --->
-* You have installed the latest version of `<coding_language/dependency/requirement_1>`
-* You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
-* You have read `<guide/link/documentation_related_to_project>`.
+* You have installed the latest version of `HTML, CSS and JS`
+* You have a `<Windows/Linux/Mac>` machine.
 
 ## Installing <project_name>:
 
