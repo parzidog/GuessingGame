@@ -1,0 +1,13 @@
+body{
+    background: #151515;
+    color: #ffffff;
+}
+button{
+    background: purple;
+    border-radius: 5px;
+    color: #ffffff;
+}
+input{
+    border-radius: 5px;
+    background: #aaa;
+}
